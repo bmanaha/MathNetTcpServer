@@ -1,0 +1,17 @@
+c:\users\bjarke\documents\visual studio 2013\Projects\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.exe.config
+C:\Users\Bjarke\Documents\Visual Studio 2013\Projects\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.exe
+C:\Users\Bjarke\Documents\Visual Studio 2013\Projects\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.pdb
+C:\Users\Bjarke\Documents\Visual Studio 2013\Projects\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.exe
+C:\Users\Bjarke\Documents\Visual Studio 2013\Projects\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.pdb
+C:\Users\Bjarke\Documents\Visual Studio 2013\Projects\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.csprojResolveAssemblyReference.cache
+D:\GamleComputer\VisualStudios13prjcts\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.exe.config
+D:\GamleComputer\VisualStudios13prjcts\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.exe
+D:\GamleComputer\VisualStudios13prjcts\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.pdb
+D:\GamleComputer\VisualStudios13prjcts\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.exe
+D:\GamleComputer\VisualStudios13prjcts\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.pdb
+D:\GamleComputer\VisualStudios13prjcts\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.csprojResolveAssemblyReference.cache
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.exe.config
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.exe
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\MathNetTcpServer\obj\Debug\MathNetTcpServer.pdb
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.exe
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\MathNetTcpServer\bin\Debug\MathNetTcpServer.pdb

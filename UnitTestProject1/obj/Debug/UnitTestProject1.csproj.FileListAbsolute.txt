@@ -1,0 +1,16 @@
+C:\Users\Bjarke\documents\visual studio 2013\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\Users\Bjarke\documents\visual studio 2013\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\Users\Bjarke\documents\visual studio 2013\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\MathNetTcpServer.exe
+C:\Users\Bjarke\documents\visual studio 2013\Projects\MathNetTcpServer\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\Users\Bjarke\documents\visual studio 2013\Projects\MathNetTcpServer\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+C:\Users\Bjarke\Documents\Visual Studio 2013\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\MathNetTcpServer.pdb
+C:\Users\Bjarke\Documents\Visual Studio 2013\Projects\MathNetTcpServer\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\MathNetTcpServer.exe
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\MathNetTcpServer.pdb
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+E:\Bman\Documents\Visual Studio 2015\Projects\MathNetTcpServer\UnitTestProject1\bin\Debug\ja\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
